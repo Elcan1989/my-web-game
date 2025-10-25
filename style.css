@@ -1,0 +1,10 @@
+body {
+  text-align: center;
+  background-color: #222;
+  color: white;
+  font-family: "微軟正黑體";
+}
+canvas {
+  border: 3px solid white;
+  background-color: #000;
+}
