@@ -2,11 +2,21 @@ body {
   text-align: center;
   background-color: #111;
   color: #fff;
-  font-family: "微軟正黑體", sans-serif;
+  font-family: "微軟正黑體";
+}
+
+h1 {
+  margin-top: 20px;
+  font-size: 2rem;
+}
+
+h2 {
+  margin: 0;
+  color: gold;
 }
 
 canvas {
-  border: 3px solid white;
+  border: 3px solid #fff;
   margin-top: 10px;
-  background-color: black;
+  background-color: #000;
 }
