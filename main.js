@@ -100,8 +100,8 @@ document.addEventListener("keydown", (e) => {
 });
 
 function startGame() {
-  rows = 15 + level * 2; // 每關迷宮更大
-  cols = 15 + level * 2;
+  rows = 15 + level * 2000; // 每關迷宮更大
+  cols = 15 + level * 2000;
   cellSize = canvas.width / cols;
 
   player = { x: 1, y: 1 };
