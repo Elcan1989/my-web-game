@@ -6,7 +6,7 @@ const levelDisplay = document.getElementById("levelDisplay");
 let maze = [];
 let player = { x: 1, y: 1 };
 let exit = { x: 0, y: 0 };
-let level = 10000000000;
+let level = 100;
 let cellSize;
 let rows, cols;
 
